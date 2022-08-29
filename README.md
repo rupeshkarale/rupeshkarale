@@ -1,6 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Vishal </h1>
+<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Rupesh </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=dcad11&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 <br>
@@ -11,8 +11,8 @@
 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
-- 🧠 Callme: **_He/His_** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - _[ Vishal]()_
+- 🧠 Callme: **He** or **_TeamWorker_** 😊 <br>
+- 👨‍💻 My Portfolio - _[ Rupesh ]()_
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -28,17 +28,17 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 <p>
-     <a href="https://wa.me/9860809706" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+     <a href="https://wa.me/919822869986" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
    <a href="https://twitter.com/VishalK11924769">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="vishalkaralevsk@gmail.com">
+  <a href="mailto:rupeshkarale3245@gmail.com">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/vishal-karale-30883120a/">
+  <a href="https://www.linkedin.com/in/rupesh-karale-b18720215/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://drive.google.com/file/d/19S2iw4GLzE2VnYAf0dQdIsNfTWQzVgG-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1DA6MYB0AR5l4cpibJ-bhVoiPl7jM14OH/view?usp=sharing">
     <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
@@ -94,7 +94,7 @@
 
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{vishalvsk}/count.svg" alt="talib789 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rupeshkarale}/count.svg" alt="talib789 :: Visitor's Count" /></p>
 
 <hr>
 
@@ -105,13 +105,13 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvsk&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshkarale&theme=chartreuse-dark"  />
 </p>
  
 <p>
-<a href="https://github.com/vishalvsk"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalvsk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalvsk&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/rupeshkarale"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshkarale&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rupeshkarale&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -119,15 +119,15 @@
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/vishalvsk"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalvsk&theme=dracula" />
+<a href="https://github.com/rupeshkarale"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupeshkarale&theme=dracula" />
 </span></a> </p>
 
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=vishalvsk&theme=chartreuse-dark" width="700px" /> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=rupeshkarale&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishalvsk&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rupeshkarale&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr clear="both">
 
