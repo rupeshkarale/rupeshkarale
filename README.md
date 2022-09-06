@@ -12,7 +12,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
 - 🧠 Callme: **He** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - _[ Rupesh ]()_
+- 👨‍💻 My Portfolio -  <a href="https://wa.me/919822869986" target="blank">Portfolio</a>
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/rupesh-karale-b18720215/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://drive.google.com/file/d/1DA6MYB0AR5l4cpibJ-bhVoiPl7jM14OH/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1bsHGsLdWTHPAhwuTu4HHe5RnKMlz20yW/view?usp=sharing">
     <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
