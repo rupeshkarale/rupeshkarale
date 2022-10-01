@@ -12,7 +12,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
 
 - 🧠 Callme: **He** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio -  <a href="https://wa.me/919822869986" target="blank">Portfolio</a>
+- 👨‍💻 My Portfolio -  <a href="https://rupesh-karale.website/" target="blank">Portfolio</a>
 - 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
@@ -29,16 +29,13 @@
 
 <p>
      <a href="https://wa.me/919822869986" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/VishalK11924769">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
-  </a>
   <a href="mailto:rupeshkarale3245@gmail.com">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/rupesh-karale-b18720215/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://drive.google.com/file/d/1bsHGsLdWTHPAhwuTu4HHe5RnKMlz20yW/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1kyebUya2JKF-sQb4nncFpVdQ_Z55Fjjl/view">
     <img align="left" src="./images/download.png" width="24px"  />
   </a>
 </p>
